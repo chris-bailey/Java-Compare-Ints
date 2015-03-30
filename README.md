@@ -11,10 +11,10 @@ Find out if two integers are equal without using comparison operators. Java solu
 4.	File -> Import -> Maven -> **Existing Maven Projects** (Navigate to folder and import)  
 
 ### src/main/java ###
-The **Main** class in the com.chrisbaileydeveloper.compareints package holds the solution.
+The **Main** class in the com.chrisbaileydeveloper.javacompareints package holds the solution.
 
 ### src/test/java ###
-The **MainTest** class in the com.chrisbaileydeveloper.compareints package holds the JUnit test cases.
+The **MainTest** class in the com.chrisbaileydeveloper.javacompareints package holds the JUnit test cases.
 
 ### Development environment ###
 Windows 7 64bit, Eclipse Java EE IDE Luna 4.4.1, Maven 3.1.0
