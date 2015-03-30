@@ -1,5 +1,5 @@
 ## Compare Integers without Operators ##
-Find out if two integers are equal without using comparison operators. Java solution explained in detail on my [website](http://chrisbaileydeveloper.com/projects).
+Find out if two integers are equal without using comparison operators. Java solution explained in detail on my [website](http://chrisbaileydeveloper.com/projects/java-compare-integers/).
 
 ## Steps to set up development environment in Eclipse ##
 1. **Download** or clone the project from GitHub.  
