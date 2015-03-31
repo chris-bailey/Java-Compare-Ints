@@ -17,7 +17,7 @@ The **Main** class in the com.chrisbaileydeveloper.javacompareints package holds
 The **MainTest** class in the com.chrisbaileydeveloper.javacompareints package holds the JUnit test cases.
 
 ### Development environment ###
-Windows 7 64bit, Eclipse Java EE IDE Luna 4.4.1, Maven 3.1.0
+Windows 7 64bit, Eclipse IDE STS Luna 4.4.1, Maven 3.1.0
 
 ### Author ###
 [Chris Bailey](http://www.chrisbaileydeveloper.com)
